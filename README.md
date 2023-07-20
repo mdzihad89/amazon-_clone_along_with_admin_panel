@@ -2,22 +2,6 @@
 
 Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs and MongoBD .
 
-## Demo
-<div class="row">
-
-<div class="column">
-<h3> Front end </h3>
-<img src= "https://user-images.githubusercontent.com/3157579/178204057-dd51e81c-bc60-41db-b626-600a1e2a130e.gif"/>
-</div>
-
-<div class="column">
-<h3> Admin Panel <h3>
-<img src= "https://user-images.githubusercontent.com/3157579/178206855-2368a5e9-12bf-4110-9d50-45a91d632804.gif" />
-</div>
-
-</div>
-
-
 
 ### Features
 - User Registration and Login with email and password
